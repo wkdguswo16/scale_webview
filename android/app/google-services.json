@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "475316673868",
+    "project_id": "scale-363204",
+    "storage_bucket": "scale-363204.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475316673868:android:e4681261f87d20068343e9",
+        "android_client_info": {
+          "package_name": "let.scale.scale_webview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475316673868-fd2d4nu3fa6ksmvt8cdvo7f7m2enoe1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI4tTqku7nhhwi8jPPqeuMFp0k80yVrus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475316673868-fd2d4nu3fa6ksmvt8cdvo7f7m2enoe1f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "475316673868-qc2bl5e3ga6qoe3efe38hhvlqt61hhld.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "let.scale.scaleWebview"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
